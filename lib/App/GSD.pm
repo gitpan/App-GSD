@@ -165,7 +165,7 @@ App::GSD - boost productivity by blocking distracting websites
 
 =head1 VERSION
 
-version 0.2
+version 0.3
 
 =head1 SYNOPSIS
 
