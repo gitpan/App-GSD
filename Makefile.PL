@@ -34,13 +34,14 @@ my %WriteMakefileArgs = (
     "File::ShareDir" => 0,
     "File::Slurp" => 0,
     "Getopt::Long" => 0,
+    "IPC::System::Simple" => 0,
     "Pod::Usage" => 0,
     "YAML" => 0,
     "autodie" => 0,
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.3",
+  "VERSION" => "0.4",
   "test" => {
     "TESTS" => "t/*.t"
   }

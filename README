@@ -2,7 +2,7 @@ NAME
     App::GSD - boost productivity by blocking distracting websites
 
 VERSION
-    version 0.3
+    version 0.4
 
 SYNOPSIS
      use App::GSD;
